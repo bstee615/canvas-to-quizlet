@@ -25,8 +25,8 @@ To install it unpacked:
 - Needs an option to set the hostname in popup.js. It should only scrape the page if the hostname is right.
 
 ## Give Credit Where Credit's Due
-@Ishan - https://stackoverflow.com/questions/21317476/how-to-use-jquery-in-chrome-extension
-@Ross Zurowski https://stackoverflow.com/questions/3689423/google-chrome-plugin-how-to-get-domain-from-url-tab-url
-@Matěj Pokorný - https://stackoverflow.com/questions/3665115/create-a-file-in-memory-for-user-to-download-not-through-server
-Tom Forth for background, permissions, and browser_action quickstart in manifest.json
+- @Ishan - https://stackoverflow.com/questions/21317476/how-to-use-jquery-in-chrome-extension
+- @Ross Zurowski https://stackoverflow.com/questions/3689423/google-chrome-plugin-how-to-get-domain-from-url-tab-url
+- @Matěj Pokorný - https://stackoverflow.com/questions/3665115/create-a-file-in-memory-for-user-to-download-not-through-server
+- Tom Forth for background, permissions, and browser_action quickstart in manifest.json
 https://www.tomforth.co.uk/chromeextension/

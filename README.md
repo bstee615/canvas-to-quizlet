@@ -2,7 +2,7 @@
 # Canvas to Quizlet
 A Chrome extension to generate Quizlet flashcards from Canvas quizzes.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
 ## About
 Version 1.0
